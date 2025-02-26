@@ -61,7 +61,7 @@ Após enviar as coordenadas para o iFood, recebi listas de supermercados e colet
   - **ID do supermercado**  
 
 🖼️ **Dados brutos vs. processados**  
-![Screenshot](./img/datas_comparison.png)  
+![Screenshot](./img/datas_comparison_br.png)  
 
 ---
 
