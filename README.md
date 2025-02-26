@@ -91,7 +91,7 @@ Utilizei **Python e Tableau** para criar gráficos e entender a distribuição d
 
 ---
 
-✅ **Conclusões**
+## 🎯 6. Conclusões
 
 Os corredores mais caros são os de Bebidas Alcoólicas, o que já era esperado, pois existem bebidas de valores muito altos. Existem diversos outliers em todos os corredores, o que pode ser explicado pelo fato de que muitos supermercados colocam produtos em alta quantidade, como, por exemplo, combos, fora do corredor de combos. No entanto, em breve, poderei filtrar isso com machine learning. Podemos ver que a maioria dos produtos se concentra entre R$ 8,00 e R$ 20,00. Fico curioso para ver como esses gráficos estarão diferentes em alguns meses.
 
