@@ -93,8 +93,6 @@ Como podemos ver no último gráfico, diversos estados têm poucos supermercados
 
 ---
 
-## 🎯 6. Conclusão  
-
 Este projeto demonstrou técnicas de **web scraping, ETL, gerenciamento de banco de dados e visualização de dados** para analisar preços no iFood. Mas ainda é um projeto em andamento, irei atualizar as técnicas e análises com o tempo.
 
 🚀 **Atualizações futuras:**
