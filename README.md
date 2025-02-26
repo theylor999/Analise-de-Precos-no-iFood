@@ -88,8 +88,10 @@ Utilizei **Python e Tableau** para criar gráficos e entender a distribuição d
 ![Screenshot](./img/distribuicao_precos.png)  
 ![Screenshot](./img/preco_medio_sp.png)  
 ![Screenshot](./img/quantidade_mercados_estado.png)  
+Os corredores mais caros são os de Bebidas Alcoólicas, o que já era esperado, pois existem bebidas de valores muito altos. Existem diversos outliers em todos os corredores, o que pode ser explicado pelo fato de que muitos supermercados colocam produtos em alta quantidade, como, por exemplo, combos, fora do corredor de combos. No entanto, em breve, poderei filtrar isso com machine learning. Podemos ver que a maioria dos produtos se concentra entre R$ 8,00 e R$ 20,00. Fico curioso para ver como esses gráficos estarão diferentes em alguns meses.
 
-Como podemos ver no último gráfico, diversos estados têm poucos supermercados disponíveis no iFood, tornando impossível analisar a média de preços verdadeira nesses estados usando apenas os dados do iFood. Por isso, estou desenvolvendo uma forma de conseguir mais supermercados nesses estados, provavelmente utilizando os sites oficiais dos supermercados. Isso também permitirá comparar os preços disponíveis no iFood com os encontrados nesses sites, e futuramente utilizar Machine Learning para prever preços.  
+
+Como podemos ver no último gráfico, diversos estados têm poucos supermercados disponíveis no iFood, tornando impossível analisar a média de preços verdadeira por estados usando apenas os dados do iFood. Por isso, estou desenvolvendo uma forma de conseguir mais supermercados nesses estados, provavelmente utilizando os sites oficiais dos supermercados. Isso também permitirá comparar os preços disponíveis no iFood com os encontrados nesses sites, e futuramente utilizar Machine Learning para prever preços.  
 
 ---
 
