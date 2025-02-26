@@ -89,15 +89,16 @@ Utilizei **Python e Tableau** para criar gráficos e entender a distribuição d
 ![Screenshot](./img/preco_medio_sp.png)  
 ![Screenshot](./img/quantidade_mercados_estado.png)  
 
-Como podemos ver no último gráfico, diversos estados têm poucos supermercados disponíveis no iFood, tornando impossível analisar a média de preços verdadeira nesses mercados usando apenas os dados do iFood. Por isso, estou desenvolvendo uma forma de conseguir mais supermercados nesses estados, provavelmente utilizando os sites oficiais dos supermercados. Isso também permitirá comparar os preços disponíveis no iFood com os encontrados nesses sites.  
+Como podemos ver no último gráfico, diversos estados têm poucos supermercados disponíveis no iFood, tornando impossível analisar a média de preços verdadeira nesses estados usando apenas os dados do iFood. Por isso, estou desenvolvendo uma forma de conseguir mais supermercados nesses estados, provavelmente utilizando os sites oficiais dos supermercados. Isso também permitirá comparar os preços disponíveis no iFood com os encontrados nesses sites, e futuramente utilizar Machine Learning para prever preços.  
 
 ---
 
 ## 🎯 6. Conclusão  
 
-Este projeto demonstrou técnicas de **web scraping, ETL, gerenciamento de banco de dados e visualização de dados** para analisar preços no iFood.  
+Este projeto demonstrou técnicas de **web scraping, ETL, gerenciamento de banco de dados e visualização de dados** para analisar preços no iFood. Mas ainda é um projeto em andamento, irei atualizar as técnicas e análises com o tempo.
 
-🚀 **Melhorias futuras:**  
+🚀 **Atualizações futuras:**
+- Comparar preços de produtos da cesta básica por estado.
 - Automatizar a atualização dos dados.  
 - Encontrar novas fontes para obter mais supermercados.  
 - Aplicar machine learning para prever preços.  
