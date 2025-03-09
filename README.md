@@ -93,6 +93,8 @@ Utilizei **Python e Tableau** para criar gráficos e entender a distribuição d
 
 ## 🎯 6. Conclusões
 
+Acredito que o iFood poderia investir mais na expansão de sua rede de supermercados, buscando cadastrar estabelecimentos de diferentes estados. Atualmente, há regiões com apenas 1, 3 ou até 0 supermercados registrados, o que limita a oferta para os consumidores. Além disso, a organização do cadastro de produtos poderia ser aprimorada. Muitos itens aparecem fora das categorias esperadas, como no caso de combos que estão posicionados em corredores inadequados, dificultando a busca e a navegação dos usuários. Essas melhorias poderiam proporcionar uma experiência mais fluida e abrangente para os consumidores.
+
 Os corredores mais caros são os de Bebidas Alcoólicas, o que já era esperado, pois existem bebidas de valores muito altos, tambem podemos ver que a maioria dos produtos se concentra entre R$ 8,00 e R$ 20,00. Existem diversos outliers em todos os corredores, o que pode ser explicado pelo fato de que muitos supermercados colocam produtos em alta quantidade, como, por exemplo, combos, fora do corredor de combos. No entanto, em breve, poderei filtrar isso com machine learning. Fico curioso para ver como esses gráficos estarão diferentes em alguns meses.
 
 
